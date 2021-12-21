@@ -1,0 +1,21 @@
+package com.bjpowernote.javase.test001;
+/*
+ * 定义一个男人类，每个男人都有身份证号、姓名、性别、女人
+ */
+public class ManTest {
+
+	
+	//定义身份证号
+	String id;
+	
+	//定义姓名
+	String name;
+	
+	//定义性别
+	boolean sex;
+	
+	//定义女人
+	WomenTest name; 
+	
+	
+}

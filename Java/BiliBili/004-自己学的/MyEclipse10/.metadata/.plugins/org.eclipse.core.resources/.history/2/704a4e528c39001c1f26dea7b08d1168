@@ -1,0 +1,10 @@
+package com.bjpowernote.javase.test012;
+
+public class Animal {
+
+	public void Animal(){
+		
+		System.out.println("动物在移动");	
+		
+	}
+}

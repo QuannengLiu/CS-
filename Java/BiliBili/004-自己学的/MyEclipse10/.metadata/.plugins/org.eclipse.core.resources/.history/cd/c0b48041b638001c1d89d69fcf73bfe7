@@ -1,0 +1,24 @@
+package com.bjpowernote.javase.test002;
+/*
+ * 丈夫与妻子关联的程序；
+ */
+public class HusbandwifeTest01 {
+
+	public static void main(String args[]){
+		
+		//创建Husband对象
+		Husband h = new Husband();
+		
+		//创建Wife对象
+		Wife w = new Wife();
+		
+		System.out.println(w.name);
+		
+	}
+	
+	
+}
+
+
+
+

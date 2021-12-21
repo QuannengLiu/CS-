@@ -1,0 +1,8 @@
+package com.bjpowernode.javase.test003;
+/*
+ * 关于Java语言中的final关键字：
+ * 		1.final是一个关键字
+ */
+public class FinalTest {
+
+}

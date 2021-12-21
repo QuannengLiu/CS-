@@ -1,0 +1,9 @@
+package com.bjpowernote.javase.test001;
+
+public class DataTest {
+	
+	int year;
+	int month;
+	int day;
+
+}

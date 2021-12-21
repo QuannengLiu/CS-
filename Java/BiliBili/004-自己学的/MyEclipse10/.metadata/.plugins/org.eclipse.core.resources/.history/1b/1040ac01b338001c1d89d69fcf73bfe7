@@ -1,0 +1,44 @@
+package com.bjpowernote.javase.test001;
+/*
+ * 丈夫与妻子关联的程序；
+ */
+public class HusbandwifeTest01 {
+
+	public voi
+	
+	
+}
+
+//定义一个丈夫类
+class Husband{
+	
+	//定义身份证号
+	String id;
+	
+	//定义姓名
+	String name;
+	
+	//定义出生日期
+	String birth;
+	
+	//定义妻子;
+	Wife w;
+	
+}
+
+//定义一个妻子类
+class Wife{
+	
+	//定义身份证号
+	String id;
+	
+	//定义姓名
+	String name;
+	
+	//定义出生日期
+	String birth;
+	
+	//定义丈夫;
+	Husband h;
+	
+}

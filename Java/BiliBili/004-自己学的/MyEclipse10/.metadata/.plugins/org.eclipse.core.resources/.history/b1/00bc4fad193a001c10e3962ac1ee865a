@@ -1,0 +1,8 @@
+package com.bjpowernode.javase.test001;
+
+public class PolymorphismTest01 {
+	
+	Animal a2 = new Cat();
+	a2.move();
+
+}

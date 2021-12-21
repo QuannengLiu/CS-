@@ -1,0 +1,36 @@
+package com.bjpowernote.javase.test003;
+/*
+ * 创建一个人的类
+ */
+
+public class Person {
+
+	//定义私有属性姓名
+	private String name;
+	
+	//定义私有属性性别
+	private boolean sex;
+	
+	//定义私有属性age
+	private int age;
+
+	//为私有属性name创建set方法
+	public void setName(String _name){
+		
+		name = _name;
+		
+	}
+	
+	//为私有属性name创建get方法
+	public String getName(){
+		
+		return name;
+		
+	}
+	
+	public static void main(String args()){
+		
+		
+	}
+
+}

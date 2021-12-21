@@ -1,0 +1,13 @@
+package com.bjpowernote.javase.test012;
+
+public class OverrideTest01 {
+	
+	public static void main(String args[]){
+		
+		Cat c = new Cat();
+	}
+
+	
+	
+	
+}

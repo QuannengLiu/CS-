@@ -1,0 +1,8 @@
+1635510211638	Move compilation unit
+1635515733593	Encapsulate field 'age'
+1635515740975	Encapsulate field 'sex'
+1635518832504	Rename type 'ThisTest'
+1635602005775	Rename package 'com.bjpowernote.javase.test0012'
+1635602017665	Rename package 'com.bjpowernote.javase.test0010'
+1635603568800	Delete element
+1635603845420	Delete element

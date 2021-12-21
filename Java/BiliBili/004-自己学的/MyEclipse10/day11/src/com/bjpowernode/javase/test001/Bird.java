@@ -1,0 +1,20 @@
+package com.bjpowernode.javase.test001;
+
+public class Bird extends Animal {
+
+	/* (non-Javadoc)
+	 * @see com.bjpowernode.javase.test001.Animal#move()
+	 */
+	@Override
+	public void move() {
+		//方法鸟在飞翔
+		System.out.println("鸟在飞翔");
+	}
+
+	public void fly(){
+		
+		//方法鸟在飞翔
+		System.out.println("鸟在飞翔");
+			
+	}
+}
